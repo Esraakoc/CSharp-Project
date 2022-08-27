@@ -1,0 +1,17 @@
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\bin\Debug\net6.0\Project4Business.deps.json
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\bin\Debug\net6.0\Project4Business.dll
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\bin\Debug\net6.0\Project4Business.pdb
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\bin\Debug\net6.0\Project4DataAccess.dll
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\bin\Debug\net6.0\Project4Entities.dll
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\bin\Debug\net6.0\Project4DataAccess.pdb
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\bin\Debug\net6.0\Project4Entities.pdb
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\obj\Debug\net6.0\Project4Business.csproj.AssemblyReference.cache
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\obj\Debug\net6.0\Project4Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\obj\Debug\net6.0\Project4Business.AssemblyInfoInputs.cache
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\obj\Debug\net6.0\Project4Business.AssemblyInfo.cs
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\obj\Debug\net6.0\Project4Business.csproj.CoreCompileInputs.cache
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\obj\Debug\net6.0\Project4Business.csproj.CopyComplete
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\obj\Debug\net6.0\Project4Business.dll
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\obj\Debug\net6.0\refint\Project4Business.dll
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\obj\Debug\net6.0\Project4Business.pdb
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Business\obj\Debug\net6.0\ref\Project4Business.dll

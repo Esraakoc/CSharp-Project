@@ -1,0 +1,12 @@
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\bin\Debug\net6.0\Project4Entities.deps.json
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\bin\Debug\net6.0\Project4Entities.dll
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\bin\Debug\net6.0\Project4Entities.pdb
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\obj\Debug\net6.0\Project4Entities.csproj.AssemblyReference.cache
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\obj\Debug\net6.0\Project4Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\obj\Debug\net6.0\Project4Entities.AssemblyInfoInputs.cache
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\obj\Debug\net6.0\Project4Entities.AssemblyInfo.cs
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\obj\Debug\net6.0\Project4Entities.csproj.CoreCompileInputs.cache
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\obj\Debug\net6.0\Project4Entities.dll
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\obj\Debug\net6.0\refint\Project4Entities.dll
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\obj\Debug\net6.0\Project4Entities.pdb
+C:\Users\Esra Koç\source\repos\UdemyCSharp\Project4Entities\obj\Debug\net6.0\ref\Project4Entities.dll
