@@ -1,0 +1,15 @@
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\bin\Debug\net7.0\Project4.DataAccess.deps.json
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\bin\Debug\net7.0\Project4.DataAccess.dll
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\bin\Debug\net7.0\Project4.DataAccess.pdb
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\bin\Debug\net7.0\Project4.Entities.dll
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\bin\Debug\net7.0\Project4.Entities.pdb
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\obj\Debug\net7.0\Project4.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\obj\Debug\net7.0\Project4.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\obj\Debug\net7.0\Project4.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\obj\Debug\net7.0\Project4.DataAccess.AssemblyInfo.cs
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\obj\Debug\net7.0\Project4.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\obj\Debug\net7.0\Project4.DataAccess.csproj.CopyComplete
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\obj\Debug\net7.0\Project4.DataAccess.dll
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\obj\Debug\net7.0\refint\Project4.DataAccess.dll
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\obj\Debug\net7.0\Project4.DataAccess.pdb
+C:\Users\Esra Koç\Desktop\c#Tekrar\CSharpIntro\Project4.DataAccess\obj\Debug\net7.0\ref\Project4.DataAccess.dll
