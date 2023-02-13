@@ -1,4 +1,4 @@
-namespace UdemyCSharp
+namespace Project1
 {
     public partial class Form1 : Form
     {
@@ -8,82 +8,67 @@ namespace UdemyCSharp
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        { 
-            var productsText = "Ürünler";
-            string addToCartButtonText = "Sepete Ekle";
+        {
+            string productsText = "Ürünler";
+            var addToCartButtonText = "Sepete Ekle";
             var cartText = "Sepetiniz";
-            var removeFromButtonText = "Sepetten Çýkar";
+            var removeFromCartButtonText = "Sepetten çýkar";
 
             lblProducts.Text = productsText;
-            btnAddToCart.Text= addToCartButtonText;
             lblCart.Text = cartText;
-            btnRemoveFromCart.Text = removeFromButtonText;
+            btnAddToCart.Text = addToCartButtonText;
+            btnRemoveFromCart.Text = removeFromCartButtonText;
 
-            string[] products = new string[] { "Laptop","Masaüstü PC", "Klavye"};
-            
+            string[] products = new string[] { "Laptop", "Klavye", "Masaüstü PC" };
+
             //for(int i = 0; i < products.Length; i++)
             //{
             //    lbxProducts.Items.Add(products[i]);
             //}
-            foreach(var item in products)
+            foreach (var product in products)
             {
-                lbxProducts.Items.Add(item);
+                lbxProducts.Items.Add(product);
             }
-
+            //lbxProducts.Items.Add("Laptop");
+            //lbxProducts.Items.Add("Klavye");
+            //lbxProducts.Items.Add("Masaüstü PC");
             if (lbxCart.Items.Count == 0)
             {
                 btnRemoveFromCart.Enabled = false;
             }
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
 
         }
 
-        private void lbxProducts_SelectedIndexChanged(object sender, EventArgs e)
+        private void btnAddToCart_Click(object sender, EventArgs e)
         {
-            
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            if(lbxProducts.SelectedItem!=null)
+            if (lbxProducts.SelectedItem != null)
             {
                 lbxCart.Items.Add(lbxProducts.SelectedItem);
                 btnRemoveFromCart.Enabled = true;
             }
             else
             {
-                MessageBox.Show("Öncelikle bir ürün seçmelisiniz.");
+                MessageBox.Show("Öncelikle bir ürün seçmelisiniz...");
             }
-            
-        }
-
-        private void lbxCart_SelectedIndexChanged(object sender, EventArgs e)
-        {
 
         }
 
-        private void lblCart_Click(object sender, EventArgs e)
+        private void btnRemoveFromCart_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            if(lbxCart.SelectedItem!=null)
+            if (lbxCart.SelectedItem != null)
             {
                 lbxCart.Items.Remove(lbxCart.SelectedItem);
             }
             else
             {
-                MessageBox.Show("Öncelikle bir ürün seçmelisiniz");
+                MessageBox.Show("Öncelikle sepetten bir ürün seçmelisiniz...");
             }
-            if(lbxCart.Items.Count==0)
+
+            if (lbxCart.Items.Count == 0)
             {
                 btnRemoveFromCart.Enabled = false;
             }
+
         }
     }
 }

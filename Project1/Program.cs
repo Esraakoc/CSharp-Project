@@ -1,4 +1,4 @@
-namespace UdemyCSharp
+namespace Project1
 {
     internal static class Program
     {

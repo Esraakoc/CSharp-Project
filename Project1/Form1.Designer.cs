@@ -1,4 +1,4 @@
-﻿namespace UdemyCSharp
+﻿namespace Project1
 {
     partial class Form1
     {
@@ -38,75 +38,70 @@
             // 
             // lbxProducts
             // 
-            this.lbxProducts.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbxProducts.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lbxProducts.FormattingEnabled = true;
-            this.lbxProducts.ItemHeight = 25;
-            this.lbxProducts.Location = new System.Drawing.Point(49, 80);
+            this.lbxProducts.ItemHeight = 28;
+            this.lbxProducts.Location = new System.Drawing.Point(68, 71);
             this.lbxProducts.Name = "lbxProducts";
-            this.lbxProducts.Size = new System.Drawing.Size(164, 254);
+            this.lbxProducts.Size = new System.Drawing.Size(150, 228);
             this.lbxProducts.TabIndex = 0;
-            this.lbxProducts.SelectedIndexChanged += new System.EventHandler(this.lbxProducts_SelectedIndexChanged);
             // 
             // lblProducts
             // 
             this.lblProducts.AutoSize = true;
-            this.lblProducts.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblProducts.Location = new System.Drawing.Point(49, 28);
+            this.lblProducts.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblProducts.Location = new System.Drawing.Point(68, 40);
             this.lblProducts.Name = "lblProducts";
-            this.lblProducts.Size = new System.Drawing.Size(75, 50);
+            this.lblProducts.Size = new System.Drawing.Size(0, 28);
             this.lblProducts.TabIndex = 1;
-            this.lblProducts.Text = "\r\nÜrünler";
-            this.lblProducts.Click += new System.EventHandler(this.label1_Click);
             // 
             // btnAddToCart
             // 
             this.btnAddToCart.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnAddToCart.Location = new System.Drawing.Point(258, 80);
+            this.btnAddToCart.Location = new System.Drawing.Point(269, 71);
             this.btnAddToCart.Name = "btnAddToCart";
-            this.btnAddToCart.Size = new System.Drawing.Size(164, 46);
+            this.btnAddToCart.Size = new System.Drawing.Size(194, 47);
             this.btnAddToCart.TabIndex = 2;
             this.btnAddToCart.Text = "button1";
             this.btnAddToCart.UseVisualStyleBackColor = true;
-            this.btnAddToCart.Click += new System.EventHandler(this.button1_Click);
+            this.btnAddToCart.Click += new System.EventHandler(this.btnAddToCart_Click);
             // 
             // lbxCart
             // 
-            this.lbxCart.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbxCart.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lbxCart.FormattingEnabled = true;
-            this.lbxCart.ItemHeight = 25;
-            this.lbxCart.Location = new System.Drawing.Point(459, 80);
+            this.lbxCart.ItemHeight = 28;
+            this.lbxCart.Location = new System.Drawing.Point(506, 71);
             this.lbxCart.Name = "lbxCart";
-            this.lbxCart.Size = new System.Drawing.Size(157, 254);
+            this.lbxCart.Size = new System.Drawing.Size(163, 228);
             this.lbxCart.TabIndex = 3;
-            this.lbxCart.SelectedIndexChanged += new System.EventHandler(this.lbxCart_SelectedIndexChanged);
             // 
             // lblCart
             // 
             this.lblCart.AutoSize = true;
             this.lblCart.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblCart.Location = new System.Drawing.Point(459, 25);
+            this.lblCart.Location = new System.Drawing.Point(506, 40);
             this.lblCart.Name = "lblCart";
             this.lblCart.Size = new System.Drawing.Size(65, 28);
             this.lblCart.TabIndex = 4;
             this.lblCart.Text = "label1";
-            this.lblCart.Click += new System.EventHandler(this.lblCart_Click);
             // 
             // btnRemoveFromCart
             // 
             this.btnRemoveFromCart.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnRemoveFromCart.Location = new System.Drawing.Point(634, 80);
+            this.btnRemoveFromCart.Location = new System.Drawing.Point(713, 71);
             this.btnRemoveFromCart.Name = "btnRemoveFromCart";
-            this.btnRemoveFromCart.Size = new System.Drawing.Size(154, 46);
+            this.btnRemoveFromCart.Size = new System.Drawing.Size(206, 47);
             this.btnRemoveFromCart.TabIndex = 5;
             this.btnRemoveFromCart.Text = "button1";
             this.btnRemoveFromCart.UseVisualStyleBackColor = true;
-            this.btnRemoveFromCart.Click += new System.EventHandler(this.button1_Click_1);
+            this.btnRemoveFromCart.Click += new System.EventHandler(this.btnRemoveFromCart_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1044, 450);
             this.Controls.Add(this.btnRemoveFromCart);
             this.Controls.Add(this.lblCart);
             this.Controls.Add(this.lbxCart);
@@ -114,7 +109,7 @@
             this.Controls.Add(this.lblProducts);
             this.Controls.Add(this.lbxProducts);
             this.Name = "Form1";
-            this.Text = "btnAddToCart";
+            this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
