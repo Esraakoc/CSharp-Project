@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EK.Api.props" />
+</Project>

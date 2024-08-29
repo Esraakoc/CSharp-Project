@@ -1,0 +1,12 @@
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\bin\Debug\net6.0\EK.Entities.deps.json
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\bin\Debug\net6.0\EK.Entities.dll
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\bin\Debug\net6.0\EK.Entities.pdb
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\obj\Debug\net6.0\EK.Entities.csproj.AssemblyReference.cache
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\obj\Debug\net6.0\EK.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\obj\Debug\net6.0\EK.Entities.AssemblyInfoInputs.cache
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\obj\Debug\net6.0\EK.Entities.AssemblyInfo.cs
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\obj\Debug\net6.0\EK.Entities.csproj.CoreCompileInputs.cache
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\obj\Debug\net6.0\EK.Entities.dll
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\obj\Debug\net6.0\refint\EK.Entities.dll
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\obj\Debug\net6.0\EK.Entities.pdb
+C:\Users\eskoc\Desktop\EK-Project1\EK.Entites\obj\Debug\net6.0\ref\EK.Entities.dll
